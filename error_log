@@ -1,0 +1,48 @@
+[26-Jul-2016 18:13:46 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/404.php on line 10
+[26-Jul-2016 18:13:51 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/author.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/author.php on line 14
+[26-Jul-2016 18:13:55 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/404.php on line 10
+[28-Jul-2016 07:09:47 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/404.php on line 10
+[02-Aug-2016 01:20:46 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/archive.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/archive.php on line 20
+[02-Aug-2016 01:20:47 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/author.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/author.php on line 14
+[03-Aug-2016 10:18:05 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php on line 15
+[03-Aug-2016 18:46:23 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php on line 15
+[04-Aug-2016 11:25:25 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php on line 15
+[06-Aug-2016 04:34:14 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php on line 15
+[11-Aug-2016 09:13:13 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/functions.php on line 15
+[26-Oct-2016 15:25:50 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/comunica/public_html/tiagopratas/wp/wp-content/themes/tp/404.php on line 10

@@ -1,0 +1,168 @@
+/*......................................................................................
+
+....................Template Geral Entidades............................................
+
+
+Tiago Pratas @ NME ---------------------------------- Núcleo de Multimédia e e-Learning
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Responsive CSS...........................................................|||||||||||||||
+
+|||||||||||||||........................................................... Outubro de 2012
+
+.....................................................................................*/
+
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+  h1 a {
+	background: url("../img/logo@2x.png") no-repeat 0 0;
+	display: block;
+	background-size: 102px 102px;
+	text-indent: -9999999px; 
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+	.content_container {
+		width: 63%;
+		}
+	.global_navigation {
+		width: 66%;
+		}
+	.global_navigation ul li {
+		padding-left: 2%;
+		}
+	
+
+	}
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+	#info {
+		margin-right: 15px;
+		}
+	#social_media {
+		margin-left: 15px;
+	}		
+	.content_wrapper {
+		border-top: none;
+		}
+	img.position {
+    	display: block;
+    	margin-left: auto;
+    	margin-right: auto; 
+		}	
+	#homepage .global_navigation {
+		border-bottom: none;
+		padding-bottom: 0;	
+		}	
+	.global_navigation ul li {
+		padding-left: 1%;
+		}	
+	.homepage_intro_container {
+		margin: 30px auto;
+		width: 100%;
+		padding-bottom: 0px;
+		}		
+	.homepage_intro {
+		width: 100%;
+		margin-bottom: 14px;
+		}	
+	.sub_navigation_menu_container {
+		width: 100%;
+		}	
+	.sub_navigation_menu {
+		width: 47.5%;
+		margin-right: 5%;
+		}	
+	.sub_navigation_menu:nth-child(2),
+	.sub_navigation_menu:nth-child(4) {
+		margin-right: 0;
+		}
+	.content_wrapper .content_container {
+		width: 100%;
+		}
+	.sub_navigation_menu {
+		width: 100%;
+		text-align: center;
+		}		
+	.content_container {	
+		width: 100%;
+		}
+			
+	.content_wrapper{
+		background: inherit;
+		}	
+	.closed_contextual_navigation dd {
+		display: none;
+		}
+	.closed_contextual_navigation dd.active {
+		display: block;
+		}
+
+	}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+
+	article { text-align: center; margin-left: 0px; }
+
+	header {
+		background: none;
+		}
+	.position{
+		width: 102px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	img.position {
+    	display: block;
+    	margin-left: auto;
+    	margin-right: auto; 
+		}
+	.global_navigation {
+		width: 100%;
+		margin-top: 0px;
+		display: block;
+		text-align: center;
+		padding-top: 21px	
+		}				
+	.sub_navigation_menu {
+		width: 100%;
+		text-align: center;
+		}		
+	h2.section_identifier {
+		display: none;
+		}	
+	.homepage_intro_container h2 {
+		display: block;
+		}	 	
+	.content_container {	
+		width: 100%;
+		}		
+    .global_navigation ul li {
+    	text-align: center;
+		}
+	.content_wrapper{
+		background: inherit;
+		}	
+	.closed_contextual_navigation dd {
+		display: none;
+		}
+
+	.closed_contextual_navigation dd.active {
+		display: block;
+		}
+	.mensagem ul{
+		font-size: 70px;
+		}	
+	}
+
+
